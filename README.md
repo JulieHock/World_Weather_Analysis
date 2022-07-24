@@ -12,3 +12,6 @@ If there are more than one vacation spots that a person would like to visit, an 
 
 ![itinerary map](https://github.com/JulieHock/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
+This map will also give them a quick glance at information about each city they choose.
+
+![Itinerary map with markers](https://github.com/JulieHock/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
